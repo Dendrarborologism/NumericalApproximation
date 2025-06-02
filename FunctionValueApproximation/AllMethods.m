@@ -1,0 +1,5 @@
+Q1_NewtonRaphson()
+Q2_SecantMethod()
+Q3_MultiMethods()
+Q4_PolynomialRoots()
+Q5_CurrentEquation()
